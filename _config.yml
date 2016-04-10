@@ -16,6 +16,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: harrie_xo
 github_username:  harrie-xo
+<<<<<<< HEAD
+=======
+=======
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+>>>>>>> 5fb10bac630bf7c7e4abf9d3aaa81bcc52db7d92
+>>>>>>> db31f425bd79bf050e9ef2afec680fee8e02722a
 
 # Build settings
 markdown: kramdown
